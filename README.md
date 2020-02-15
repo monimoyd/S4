@@ -1,7 +1,7 @@
 # S4
 MNIST pytorch assignmet
 
-This is assignment for training MNIST using Pytorch. I have used 11384 parameters, Batch size: 512, SGD optimizer with learning rate 0.01. I have achieved 99.41 validation accuracy at 19th epoch.
+This is assignment for training MNIST using Pytorch. I have used 11354 parameters, Batch size: 512, SGD optimizer with learning rate 0.01. I have achieved 99.41 validation accuracy at 19th epoch.
 
 The Google colab link is:
 
